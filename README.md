@@ -1,22 +1,15 @@
-# Project Name
-> Outline a brief description of your project.
-
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+# Lending Club Case Study
+> This project involves analyzing loan application data for a consumer finance company. The company aims to identify patterns that indicate whether a loan applicant is likely to default. By understanding these patterns, the company can make more informed decisions to minimize financial losses. The dataset includes information on past applicants who either fully repaid their loans, are still repaying, or defaulted. The objective is to use this data to predict the likelihood of default for future applicants, helping the company reduce risky loans and manage credit loss effectively.
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project focuses on a consumer finance company that provides loans to urban customers. The company needs to decide whether to approve loan applications based on the applicant’s profile. The challenge is to avoid business loss by denying loans to reliable payers and to prevent financial loss by approving loans to those who might default. The goal is to minimize financial losses by identifying risky applicants early on.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The dataset used contains historical data on past loan applicants and their repayment statuses, including those who fully repaid, are still repaying, or defaulted on their loans. By analyzing this data, the project aims to identify patterns and key factors that indicate the likelihood of default. This information will help the company make better decisions on loan approvals, rejections, and adjustments to loan terms.
+
+## Steps Performed
+- Data Analysis
+- Data Cleaning and Manipulation
+- Data Analysis
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -24,29 +17,7 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Shivani Khobrekar and Mohammed Zaishan - feel free to contact us!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+### Developed as part of the Group Study for Lending Club Case Study Module required for Post Graduate Diploma in AI & ML - IIIT,Bangalore.
