@@ -7,8 +7,8 @@ This project focuses on a consumer finance company that provides loans to urban 
 The dataset used contains historical data on past loan applicants and their repayment statuses, including those who fully repaid, are still repaying, or defaulted on their loans. By analyzing this data, the project aims to identify patterns and key factors that indicate the likelihood of default. This information will help the company make better decisions on loan approvals, rejections, and adjustments to loan terms.
 
 ## Steps Performed
-- Data Analysis
-- Data Cleaning and Manipulation
+- Data Cleaning
+- Data Manipulation
 - Data Analysis
 
 ## Conclusions
