@@ -1,21 +1,30 @@
 # Lending Club Case Study
-> This project involves analyzing loan application data for a consumer finance company. The company aims to identify patterns that indicate whether a loan applicant is likely to default. By understanding these patterns, the company can make more informed decisions to minimize financial losses. The dataset includes information on past applicants who either fully repaid their loans, are still repaying, or defaulted. The objective is to use this data to predict the likelihood of default for future applicants, helping the company reduce risky loans and manage credit loss effectively.
+> This case study explores how a finance company can use data analysis to make better loan approval decisions. 
+By examining past loan data, we aim to identify factors that predict whether a borrower will default. 
+This helps the company reduce financial losses by avoiding risky loans.
 
 ## General Information
-This project focuses on a consumer finance company that provides loans to urban customers. The company needs to decide whether to approve loan applications based on the applicant’s profile. The challenge is to avoid business loss by denying loans to reliable payers and to prevent financial loss by approving loans to those who might default. The goal is to minimize financial losses by identifying risky applicants early on.
-
-The dataset used contains historical data on past loan applicants and their repayment statuses, including those who fully repaid, are still repaying, or defaulted on their loans. By analyzing this data, the project aims to identify patterns and key factors that indicate the likelihood of default. This information will help the company make better decisions on loan approvals, rejections, and adjustments to loan terms.
+The finance company wants to minimize losses from loan defaults by identifying high-risk applicants. 
+The goal is to understand which factors indicate a borrower is likely to default, so the company can make informed decisions on loan approvals.
 
 ## Steps Performed
+- Data Sourcing
 - Data Cleaning
 - Data Manipulation
 - Data Analysis
+- Conclusions & Recommendations
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Defaulted loans are significantly fewer than fully paid loans, with 36-month loans being more common and loans predominantly taken by higher-grade borrowers.
+- Loans average 9,800 and are mainly for rent, mortgage, and debt consolidation, with interest rates clustering around 7.5% and 10-15%, and longer-term loans having higher rates.
+- Debt consolidation loans show high rates of both full repayment and default, with higher loan amounts and annual incomes around 50,000 being more likely to default.
+- Higher grades (A, B, C) are linked to lower interest rates, while lower grades (D, E, F, G) face higher rates, and most borrowers have no public bankruptcy records, indicating a generally safer profile.
+  
+## Recommendations
+- Tighten criteria for 36-month loans due to higher default rates and focus on higher-grade borrowers (A and B) with over 10 years of experience.
+- Monitor and manage interest rates, particularly in the 5-15% range, and offer competitive rates for longer-term loans.
+- Prioritize approving 36-month loans, especially for borrowers seeking debt consolidation or credit card debt relief.
+- Provide financial education to lower-income borrowers, offer better terms for those without public bankruptcy records, and consider work experience and property ownership in loan assessments.
 
 ## Contact
 Created by Shivani Khobrekar and Mohammed Zaishan - feel free to contact us!
