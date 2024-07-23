@@ -16,8 +16,8 @@ The goal is to understand which factors indicate a borrower is likely to default
 
 ## Conclusions
 - Defaulted loans are significantly fewer than fully paid loans, with 36-month loans being more common and loans predominantly taken by higher-grade borrowers.
-- Loans average 9,800 and are mainly for rent, mortgage, and debt consolidation, with interest rates clustering around 7.5% and 10-15%, and longer-term loans having higher rates.
-- Debt consolidation loans show high rates of both full repayment and default, with higher loan amounts and annual incomes around 50,000 being more likely to default.
+- Loans average $9,800 and are mainly for rent, mortgage, and debt consolidation, with interest rates clustering around 7.5% and 10-15%, and longer-term loans having higher rates.
+- Debt consolidation loans show high rates of both full repayment and default, with higher loan amounts and annual incomes around $50,000 being more likely to default.
 - Higher grades (A, B, C) are linked to lower interest rates, while lower grades (D, E, F, G) face higher rates, and most borrowers have no public bankruptcy records, indicating a generally safer profile.
   
 ## Recommendations
