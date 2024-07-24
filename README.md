@@ -7,6 +7,8 @@ This helps the company reduce financial losses by avoiding risky loans.
 The finance company wants to minimize losses from loan defaults by identifying high-risk applicants. 
 The goal is to understand which factors indicate a borrower is likely to default, so the company can make informed decisions on loan approvals.
 
+### Note- Before loading loan.csv file, extract the loan.csv file from loan.zip which is present in github repository
+
 ## Steps Performed
 - Data Sourcing
 - Data Cleaning
